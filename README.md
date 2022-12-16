@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kartik_builds" target="blank"><img src="https://img.shields.io/twitter/follow/kartik_builds?logo=twitter&style=for-the-badge" alt="iamkartik_12" /></a> </p>
 
-- 🔭 I’m currently working on **Link in bio website with blogs and links.**
+- 🌱 I’m currently learning **REACT**
 
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on **Barter Skills exchange and learn.**
-
-- 📝 I regularly write articles on [articleinventory.blogspot.com](articleinventory.blogspot.com)
-
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **PYTHON and REACT**
 
 - 📫 How to reach me **kartikkhorwal12122003@gmail.com**
 
@@ -27,8 +21,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kartikk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kartikk" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikk-k&show_icons=true&locale=en" alt="kartikk-k" /></p>
